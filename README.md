@@ -1,5 +1,7 @@
 ### Hello there 👋
-
+✨ Mi nombre es Sebastián Arias y soy Full Stack Developer.
+✨ Estoy en busca de mi primer empleo IT.
+✨ En que puedo ayudarte ?
  ### Skills:
  
  ### Contactame:
