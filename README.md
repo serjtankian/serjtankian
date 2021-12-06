@@ -10,19 +10,18 @@
 <p>
 
  
- ### Skills:
+ <h3>Skills: </h3>
   <p align="left">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="40"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="40"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="40"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40">
 </p>
-![tenor](https://2.bp.blogspot.com/-V46BHhgXtAg/VqafDb8v0dI/AAAAAAAAABo/sT03F3I5D64/s400/imagenes-con-movimiento-de-informatica-4.gif)
+
  
 ![image](https://user-images.githubusercontent.com/76535680/144925152-75bb643e-b028-46d9-a229-418fa430b789.png)
 
 
 <div align="left">
-<h3>Reach out to me on: </h3>
+<h3>Contáctame: </h3>
 
-  
   [![Linkedin Badge](https://img.shields.io/badge/-SebastianArias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastián47arias/)](https://www.linkedin.com/in/sebastián47arias/)
   [![Gmail Badge](https://img.shields.io/badge/-sebastian.arias4214@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sebastian.arias4214@gmail.com)](mailto:sebastian.arias4214@gmail.com)
 
