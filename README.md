@@ -2,7 +2,7 @@
 <h1 align="center"> Hello there 👋, Mi nombre es Sebastian Arias </h1>
  
  <img align="right"  src="https://2.bp.blogspot.com/-V46BHhgXtAg/VqafDb8v0dI/AAAAAAAAABo/sT03F3I5D64/s400/imagenes-con-movimiento-de-informatica-4.gif"/>
-<p><em> 🌍 Soy Full Stack Developer y soy de Argentina.
+<p><em> 🌍 Soy Full Stack Developer de Argentina.
 </em></p>
 <p><em>✨ Esoy en busca de mi primer empleo IT. Me gusta trabajar en equipo y aprender constantemente.</em></p>
 <p><em>⚡Estoy mejorando mis proyectos actuales y trabajando en una HeroApp.</em></p>
