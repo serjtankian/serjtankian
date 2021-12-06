@@ -3,21 +3,11 @@
 -  Actualmente estoy aprendiendo Typescript, MongoDB y Vuejs.
 -  Estoy mejorando mis proyectos actuales y trabajando en una HeroApp.
  ### Skills:
- react
-React.js	redux  ![tenor](https://2.bp.blogspot.com/-V46BHhgXtAg/VqafDb8v0dI/AAAAAAAAABo/sT03F3I5D64/s400/imagenes-con-movimiento-de-informatica-4.gif)
-Redux.js	javascript
-JavaScript	bootstrap
-Bootstrap	CSS3
-CSS3
-node
-Node.js	express
-Express.js	Chakra
-Chakra	Sequelize
-Sequelize	PostgresQL
-PostgresQL
+![image](https://user-images.githubusercontent.com/76535680/144925152-75bb643e-b028-46d9-a229-418fa430b789.png)
+
+
  ### Contactame:
  
-
 ![tenor](https://2.bp.blogspot.com/-V46BHhgXtAg/VqafDb8v0dI/AAAAAAAAABo/sT03F3I5D64/s400/imagenes-con-movimiento-de-informatica-4.gif)
 
  
