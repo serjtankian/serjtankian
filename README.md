@@ -3,7 +3,8 @@
 - Estoy en busca de mi primer empleo IT.
 - En que puedo ayudarte ?
  ### Skills:
- 
+ ![image](https://user-images.githubusercontent.com/76535680/144915830-d44eac17-ec12-4d6f-8ecb-840e4ccdc7e8.png)
+
  ### Contactame:
 
 ![tenor](https://user-images.githubusercontent.com/76535680/143384893-23c0c593-fbec-4fcc-8e92-33667782f5ac.gif)
