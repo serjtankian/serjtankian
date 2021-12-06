@@ -4,7 +4,7 @@
 -  Estoy mejorando mis proyectos actuales y trabajando en una HeroApp.
  ### Skills:
  react
-React.js	redux                                ![tenor](https://2.bp.blogspot.com/-V46BHhgXtAg/VqafDb8v0dI/AAAAAAAAABo/sT03F3I5D64/s400/imagenes-con-movimiento-de-informatica-4.gif)
+React.js	redux  ![tenor](https://2.bp.blogspot.com/-V46BHhgXtAg/VqafDb8v0dI/AAAAAAAAABo/sT03F3I5D64/s400/imagenes-con-movimiento-de-informatica-4.gif)
 Redux.js	javascript
 JavaScript	bootstrap
 Bootstrap	CSS3
