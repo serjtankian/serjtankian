@@ -18,7 +18,7 @@ PostgresQL
  ### Contactame:
  
 
-![tenor](https://user-images.githubusercontent.com/76535680/143384893-23c0c593-fbec-4fcc-8e92-33667782f5ac.gif)
+![tenor](https://2.bp.blogspot.com/-V46BHhgXtAg/VqafDb8v0dI/AAAAAAAAABo/sT03F3I5D64/s400/imagenes-con-movimiento-de-informatica-4.gif)
 
  
  
