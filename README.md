@@ -16,9 +16,6 @@
 </p>
 
  
-![image](https://user-images.githubusercontent.com/76535680/144925152-75bb643e-b028-46d9-a229-418fa430b789.png)
-
-
 <div align="left">
 <h3>Contáctame: </h3>
 
