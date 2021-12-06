@@ -1,5 +1,5 @@
 ### Hello there 👋
-<h1 align="center"> Mi nombre es Sebastian Arias h1>
+<h1 align="center" Mi nombre es Sebastian Arias h1>
  
  <img align="right"  src="https://2.bp.blogspot.com/-V46BHhgXtAg/VqafDb8v0dI/AAAAAAAAABo/sT03F3I5D64/s400/imagenes-con-movimiento-de-informatica-4.gif"/>
 <p><em> 🌍 Soy Full Stack Developer y soy de Argentina.
