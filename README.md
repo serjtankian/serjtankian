@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hello there 👋, Mi nombre es Sebastian Arias </h1> <img src=url("https://drive.google.com/file/d/1oEAdtJ7DiDtERGmXtQI2DF4QFVNw0Y9T/view?usp=sharing")/>
+<h1 align="center"> Hello there 👋, Mi nombre es Sebastian Arias </h1> <img align="right"  src="https://drive.google.com/file/d/1oEAdtJ7DiDtERGmXtQI2DF4QFVNw0Y9T/view?usp=sharing"/>
  
  <img align="right"  src="https://2.bp.blogspot.com/-V46BHhgXtAg/VqafDb8v0dI/AAAAAAAAABo/sT03F3I5D64/s400/imagenes-con-movimiento-de-informatica-4.gif"/>
 <p><em> 🌍 Soy Full Stack Developer de Argentina.
