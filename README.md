@@ -8,7 +8,7 @@
 </em></p>
 <p><em>✨ Estoy en busca de mi primer empleo IT. Me gusta trabajar en equipo y aprender constantemente.</em></p>
 <p><em>⚡Estoy mejorando mis proyectos actuales y trabajando en una HeroApp.</em></p>
-<p><em>🚀Actualmente estoy aprendiendo Java y especializandome en Saleforce..</em></p>
+<p><em>🚀Actualmente estoy aprendiendo Java y especializandome en Saleforce.</em></p>
 <p>
 
  
