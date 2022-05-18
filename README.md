@@ -16,7 +16,7 @@
  
  <h3>Skills: </h3>
   <p align="left">
-  <img src="https://media.giphy.com/media/lpsmjgAouxn54QvHBq/giphy.gif" width="40"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="40"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="40"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="40"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40">
+  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1626705742673x345048931285492300%2FSalesForce_API_Connector.gif?w=&h=&auto=compress&dpr=1&fit=max" width="40"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="40"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="40"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="40"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40">
 </p>
 
  
