@@ -2,8 +2,10 @@
 
 <h1 align="center"> Hello there 👋, Mi nombre es Sebastian Arias </h1> 
 
-
+<!--
  <img align="right"  src="https://2.bp.blogspot.com/-V46BHhgXtAg/VqafDb8v0dI/AAAAAAAAABo/sT03F3I5D64/s400/imagenes-con-movimiento-de-informatica-4.gif"/>
+-->
+ <img align="right"  src="https://www.salesforce.com/content/dam/blogs/au/2019/July/astro_moon_v2.gif"/>
 <p><em> 🌍 Soy Full Stack Developer de Argentina.
 </em></p>
 <p><em>✨ Estoy en busca de mi primer empleo IT. Me gusta trabajar en equipo y aprender constantemente.</em></p>
