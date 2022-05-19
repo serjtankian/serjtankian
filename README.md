@@ -7,7 +7,7 @@
 -->
  <img align="right" src="https://media.giphy.com/media/5fBH6zo7vGRiVtF6asg/giphy-downsized-large.gif"/>
  
-<p><em> 🌍 Soy Full Stack Developer de Argentina.
+<p align="left" ><em> 🌍 Soy Full Stack Developer de Argentina.
 </em></p>
 <p><em>✨ Estoy en busca de mi primer empleo IT. Me gusta trabajar en equipo y aprender constantemente.</em></p>
 <p><em>⚡Estoy mejorando mis proyectos actuales y trabajando en una HeroApp.</em></p>
