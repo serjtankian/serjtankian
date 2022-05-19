@@ -5,7 +5,7 @@
 <!--
  <img align="right"  src="https://2.bp.blogspot.com/-V46BHhgXtAg/VqafDb8v0dI/AAAAAAAAABo/sT03F3I5D64/s400/imagenes-con-movimiento-de-informatica-4.gif"/>
 -->
- <img  src="https://media.giphy.com/media/5fBH6zo7vGRiVtF6asg/giphy-downsized-large.gif"/>
+ <img  align="right" src="https://media.giphy.com/media/5fBH6zo7vGRiVtF6asg/giphy-downsized-large.gif"/>
  
 <p><em> 🌍 Soy Full Stack Developer de Argentina.
 </em></p>
