@@ -8,8 +8,8 @@
   <img  align="right" src="https://media.giphy.com/media/5fBH6zo7vGRiVtF6asg/giphy-downsized-large.gif"/>
 <p><em> 🌍 Soy Salesforce Developer de Argentina.
 </em></p>
-<p><em>✨ Soy bueno trabajando en equipo.</em></p>
 <p><em>⚡Actualmente estoy desarrollando un proyecto con colegas llamado E-Learning con tecnologia Salesforce.</em></p>
+<p><em>✨ También estoy preparándome para mi primer certificación.</em></p>
 
 
  <h3>Skills: </h3>
